@@ -1,0 +1,31 @@
+﻿<Project Synchronized="False" SyncFilter="*.ps1;*.psm1;*.psd1;*.ps1xml;*.psf;*.pss;*.xml;*.help.txt">
+  <Version>2.0</Version>
+  <FileID>e84ae705-cd76-44ca-83a1-0ed0455d3967</FileID>
+  <ProjectType>2</ProjectType>
+  <Folders>
+    <Folder>Utils</Folder>
+    <Folder>TFS</Folder>
+  </Folders>
+  <Files>
+    <File Build="2" Shared="False">AddToDomain.ps1</File>
+    <File Build="2" Shared="False">CreateADLocalAdmin.ps1</File>
+    <File Build="2" Shared="False">CreateDomain.ps1</File>
+    <File Build="2" Shared="False">CustomizeGUI.ps1</File>
+    <File Build="2" Shared="False">InitDomain.ps1</File>
+    <File Build="2" Shared="False">InitLogin.ps1</File>
+    <File Build="2" Shared="False">InitVMInstance.ps1</File>
+    <File Build="2" Shared="False">InstallApps.ps1</File>
+    <File Build="2" Shared="False">RemoveApps.ps1</File>
+    <File Build="2" Shared="False">SetupVMTemplate.ps1</File>
+    <File Build="2" Shared="False">SysPrep.ps1</File>
+    <File Build="2" Shared="False">Utils\AppUtils.ps1</File>
+    <File Build="2" Shared="False">Utils\OSUtils.ps1</File>
+    <File Build="2" Shared="False">Utils\Utils.ps1</File>
+    <File Build="2" Shared="False">ImportLayout.ps1</File>
+    <File Build="2" Shared="False">Utils\DomainUtils.ps1</File>
+    <File Build="2" Shared="False">TFS\CreateTFSUsers.ps1</File>
+    <File Build="2" Shared="False">TFS\GrantTFSPermissions.ps1</File>
+  </Files>
+  <DeployMode>Project</DeployMode>
+  <PrimaryFile></PrimaryFile>
+</Project>

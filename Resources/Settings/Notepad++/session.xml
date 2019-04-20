@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="2">
+            <File firstVisibleLine="1728" xOffset="0" scrollWidth="1056" startPos="0" endPos="0" selMode="0" lang="XML" encoding="-1" filename="C:\Users\Default\AppData\Local\Microsoft\Windows\Shell\DefaultLayouts.xml" backupFilePath="" originalFileLastModifTimestamp="1506692664" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="194" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2024" startPos="2798" endPos="2798" selMode="0" lang="XML" encoding="-1" filename="C:\Users\Default\AppData\Local\Microsoft\Windows\Shell\LayoutModification.xml" backupFilePath="" originalFileLastModifTimestamp="1520124073" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="2024" startPos="2741" endPos="2814" selMode="0" lang="XML" encoding="-1" filename="C:\Test.xml" backupFilePath="" originalFileLastModifTimestamp="1520133208" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

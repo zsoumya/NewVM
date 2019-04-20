@@ -1,0 +1,13 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>e84ae705-cd76-44ca-83a1-0ed0455d3967</FileID>
+  <OpenFolders>
+    <Folder>Utils</Folder>
+    <Folder>TFS</Folder>
+  </OpenFolders>
+  <OpenFiles>
+    <File>Utils\OSUtils.ps1</File>
+    <File>SetupVMTemplate.ps1</File>
+    <File>CustomizeGUI.ps1</File>
+  </OpenFiles>
+</ProjectState>
